@@ -1,0 +1,15 @@
+.tpl-comonstyle {
+  margin-top: 40px;
+  overflow: hidden;
+  padding:5px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white !important;
+}
+
+html {
+  font-size: 14px;
+}
