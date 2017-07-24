@@ -2,7 +2,7 @@
 var HtmlWebpackPlugin = require('html-webpack-plugin')
 
 module.exports = {
-  entry: './src/main.js', //打包入口文件
+  entry: './src/main.js', //打包fsdadfdsfsd入口文件
   output: { //输出文件
     path: __dirname,
     filename: 'bundle.js'
