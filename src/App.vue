@@ -5,7 +5,7 @@
     <router-view></router-view>
     <mt-tabbar fixed v-show='!isShow'>
       <mt-tab-item href="#/home">
-        <img slot="icon" src="http://img06.jiuxian.com/bill/2016/0224/cccd8df26a754c139de800406af82178.png">
+        <img     slot="icon" src="http://img06.jiuxian.com/bill/2016/0224/cccd8df26a754c139de800406af82178.png">
       </mt-tab-item>
       <mt-tab-item href="#/category">
         <img slot="icon" src="http://img09.jiuxian.com/bill/2016/0224/36a49b28ec5e4cdf9dbe37988199487d.png">
